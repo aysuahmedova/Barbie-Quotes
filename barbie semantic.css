@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Charm:wght@400;700&family=Fleur+De+Leah&display=swap');
+
+body{
+    background-image: url(pinkback.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    max-width: 400px;
+    max-height: 500px;
+    margin-top: 170px;
+}
+div h2{
+    margin-top: 0;
+}
+
+ article p {
+    font: bold;
+    font-family: "Fleur De Leah", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    margin-top: 2px;
+    margin-bottom: 3px;
+}
+ footer .button{
+    margin:19px 11px;
+    padding: 10px;
+    background-color: #ff4d79;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+article img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+    margin: 4px 15px ;
+}
